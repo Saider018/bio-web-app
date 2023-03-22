@@ -1,0 +1,31 @@
+body {
+   padding: 20px;
+   background: lightgrey;
+   color: black;
+   text-align: center;
+   font-size: 15pt;
+}
+h2 {
+   color: blue
+}
+#newHeader{
+  color: red;
+}
+.yellow-font{
+  color: saddlebrown
+}
+a{
+  text-decoration:none ;
+}
+.profile-img{
+  width: 50%;
+  border-radius: 50%;
+}
+.btn{
+  display: block;
+  color: antiquewhite;
+  padding: 15px;
+  background: dimgrey;
+  margin: 16px;
+  box-shadow: 10px 10px black;
+}
